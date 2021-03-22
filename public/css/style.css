@@ -1,0 +1,24 @@
+body {
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 2px;
+}
+
+body .container {
+  padding: 1rem 3rem 1rem 3rem;
+}
+
+body h1 {
+  font-size: 28px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+body .models ul {
+  list-style: ">> ";
+}
+
+body .models ul li {
+  font-size: 15px;
+  font-weight: 600;
+}
+/*# sourceMappingURL=style.css.map */
