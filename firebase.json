@@ -14,10 +14,16 @@
     ],
     "headers": [{
       "source": "**/*.@(json|bin|eot|otf|ttf|ttc|woff|font.css)",
-      "headers": [ {
-        "key": "Access-Control-Allow-Origin",
-        "value": "*"
-      }]
+      "headers": [ 
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "max-age=31556926"
+        }
+      ]
     }]
   }
 }
