@@ -20,5 +20,4 @@ visit [models-lib.web.app](https://models-lib.web.app/) for list of models curre
 - Deploy project with `firebase deploy`
 
 ## Contribution
-Anyone can contribute by providing trained models converted into tfjs format. For more info contact [here](https://tarunbisht.com/contact) or E-mail to contact@tarunbisht.com 
-
+Anyone can contribute by providing trained models converted into tfjs format.
